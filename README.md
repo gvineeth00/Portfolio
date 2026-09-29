@@ -1,21 +1,26 @@
-# Vineeth Golla - Software Engineer Portfolio
+# Vineeth Golla - AI/ML Engineer and Software Engineer
 
-A lightweight personal portfolio focused on backend engineering, distributed systems, search, streaming, and cloud infrastructure.
+Personal portfolio for Vineeth Golla, focused on production AI/ML engineering and scalable software systems.
 
-The site is intentionally simple at runtime: one static page, no framework dependency, fast loading, responsive layouts, and a small interactive systems game.
+## Focus
 
-## Highlights
+- AI/ML inference, evaluation, serving, and ML infrastructure
+- Python, C++, Java, SQL
+- PyTorch, JAX, TensorFlow, Hugging Face, ONNX, vLLM
+- Distributed systems, Kafka, data pipelines, REST APIs, microservices
+- GCP, AWS, Docker, Kubernetes, Terraform, CI/CD
+- Testing, observability, performance, and production reliability
 
-- Java, Spring Boot, Spring WebFlux, REST, gRPC
-- Kafka, Kafka Streams, Flink, Redis, PostgreSQL, Solr
-- AWS, Kubernetes, Docker, Helm, CI/CD
-- Responsive mobile-first design
-- Interactive ocean-themed engineering experience
+## Live portfolio
 
-## Run locally
+https://gvineeth00.github.io/Portfolio/
 
-Open `index.html` directly in a browser or serve the repository with any static HTTP server.
+## Contact
+
+- Email: gvineeth614@gmail.com
+- LinkedIn: https://www.linkedin.com/in/g-vineeth
+- GitHub: https://github.com/gvineeth00
 
 ## Hosting
 
-GitHub Pages compatible from the repository root on the `main` branch.
+The portfolio is a lightweight static page and is published with GitHub Pages from the main branch.
